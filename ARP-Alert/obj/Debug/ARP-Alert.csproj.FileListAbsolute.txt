@@ -1,0 +1,21 @@
+D:\ARP курсовая\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.exe.config
+D:\ARP курсовая\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.exe
+D:\ARP курсовая\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.pdb
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.csprojAssemblyReference.cache
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Form1.resources
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Properties.Resources.resources
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.csproj.GenerateResource.cache
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.exe
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.pdb
+D:\ARP курсовая\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Autorisation.resources
+Z:\projects\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.exe.config
+Z:\projects\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.exe
+Z:\projects\ARP-Alert\ARP-Alert\bin\Debug\ARP-Alert.pdb
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.csprojAssemblyReference.cache
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Autorisation.resources
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Form1.resources
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP_Alert.Properties.Resources.resources
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.csproj.GenerateResource.cache
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.csproj.CoreCompileInputs.cache
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.exe
+Z:\projects\ARP-Alert\ARP-Alert\obj\Debug\ARP-Alert.pdb
